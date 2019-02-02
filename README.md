@@ -88,3 +88,7 @@ First you must read the README...
 ```
 
 4. Restart your server
+
+## Customizing Gatsby Theme
+
+More detailed instructions will come later, for now, refer to [this](https://github.com/ChristopherBiscardi/gatsby-theme-examples)
