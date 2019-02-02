@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Wiki Template
+  Gatsby Starter Wiki Theme
 </h1>
 
 A gatsby wiki starter / theme for markdown driven documentation sites using [Gatsby](https://github.com/gatsbyjs/gatsby/).
@@ -53,12 +53,8 @@ npm install --global gatsby-cli
 # (Change `my-new-wiki` to whatever you want your wiki to be called)
 gatsby new my-new-wiki https://github.com/cephalization/gatsby-starter-wiki-theme
 
-
-# Install dependencies (can also use yarn)
-npm install
-
 # Run the wiki locally
-npm run develop
+npm run start
 ```
 
 You can now host this template via your favorite hosting service (or yourself!), push to your own git<hub|lab|etc> repo, and customize to your heart's content!
