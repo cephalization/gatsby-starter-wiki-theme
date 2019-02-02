@@ -1,0 +1,29 @@
+{
+  "name": "gatsby-starter-wiki-theme",
+  "private": true,
+  "description": "A simple starter to get up and writing markdown documentation quickly, with GatsbyJS",
+  "version": "0.1.0",
+  "author": "Anthony Powell <adpowell@mtu.edu>",
+  "dependencies": {
+    "gatsby": "^2.0.107",
+    "gatsby-theme-wiki": "git+https://github.com/cephalization/gatsby-wiki.git"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cephalization/gatsby-starter-wiki-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/cephalization/gatsby-starter-wiki-theme/issues"
+  }
+}
